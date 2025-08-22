@@ -24,3 +24,5 @@ npm run dev
 
 ## License
 MIT
+## Contributing
+Please read CONTRIBUTING.md for details.
