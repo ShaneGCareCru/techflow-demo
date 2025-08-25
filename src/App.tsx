@@ -18,6 +18,8 @@ export default function App() {
           <a href="#features">Features</a>
           <a href="#pricing">Pricing</a>
           <a href="#docs">Documentation</a>
+          <a href="#blog">Blog</a>
+          <a href="#support">Support</a>
         </nav>
       </header>
       
